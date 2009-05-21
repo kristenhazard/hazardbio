@@ -116,7 +116,7 @@ ul#navigation li.last
 ul#navigation li a
 {
   display: block;
-  padding: 0.6em 0.6em;
+  padding: 0.65em 0.64em;
   border-bottom: none;
   font-size: 1.65em;
   text-decoration: none;
@@ -142,3 +142,28 @@ body#blog #header a.blog
 	background: #4E78A1;
   color: #F7C639;
 }
+
+div#content
+{
+	position: relative;
+}
+
+div#header
+{
+  /*position: relative;*/
+  margin-bottom: 4em;
+  padding-top: 1em;
+}
+
+#content img {margin: 3px 3px 3px 3px}
+
+#twitter-link
+{
+	color: #9DCAFF;
+}
+
+ul#twitter_update_list a
+{
+	color: #9DCAFF;
+}
+

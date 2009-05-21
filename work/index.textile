@@ -6,5 +6,10 @@ section: work
 
 ---
 
+<div id="content">
+  
+<a href="http://www.linkedin.com/in/kristenhazard" >
+  <img src="http://www.linkedin.com/img/webpromo/btn_viewmy_160x33.gif" width="160" height="33" border="0" alt="View Kristen Hazard's profile on LinkedIn">
+</a>
 
-
+</div>
