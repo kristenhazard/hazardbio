@@ -1,6 +1,9 @@
 ---
 layout: default
 title: about
+
+section: about
+
 ---
 
-h1. Blog
+

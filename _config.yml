@@ -1,1 +1,5 @@
 destination: ./_site
+markdown:    textile
+pygments:    true
+auto:        true
+

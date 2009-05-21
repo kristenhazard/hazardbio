@@ -56,7 +56,7 @@ h1 a
 }
 
 h1 a:hover,
-h1 a:focus,
+h1 a:focus
 h1 a:active
 {
   background: transparent;
@@ -74,19 +74,19 @@ h1 a span
 
 h2
 {
-  font-family: 'helvetica', 'arial', sans-serif;
+  /*font-family: 'helvetica', 'arial', sans-serif;
+		font-weight: bold;*/
   font-size: 2em;
-  font-weight: bold;
-  color: #c6e567;
+  color: #fff;
   line-height: 1.5em;
 }
 
 h3
 {
-  font-family: 'helvetica', 'arial', sans-serif;
+  /*font-family: 'helvetica', 'arial', sans-serif;
+  font-weight: bold;*/
   font-size: 1.5em;
-  font-weight: bold;
-  color: #c6e567;
+  color: #fff;
 }
 
 ul#navigation
@@ -126,9 +126,19 @@ ul#navigation li a
 }
 
 ul#navigation li a:hover,
-ul#navigation li a:active,
-ul#navigation li a:focus
+ul#navigation li a:focus,
+ul#navigation li a:active
 {
   background: #F7C639;
   color: #4E78A1;
+}
+
+body#work #header a.work, 
+body#home #header a.home, 
+body#about #header a.about,
+body#mush #header a.mush,
+body#blog #header a.blog
+{ 
+	background: #4E78A1;
+  color: #F7C639;
 }

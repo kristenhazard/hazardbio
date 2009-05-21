@@ -1,0 +1,9 @@
+---
+layout: default
+title: blog
+
+section: blog
+---
+
+
+
