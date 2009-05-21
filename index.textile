@@ -3,12 +3,11 @@ layout: default
 title: home
 
 section: home
-
 ---
 
 <div id="content">
 
-Hello. You've landed at hazardbio.com, Kristen Hazard's website.  It contains some info about me, my creations and my development blog.
+Hello. You've landed at hazardbio.com, Kristen Hazard's website.  It contains some info about me, my creations and my coding blog called "create, share, repeat".
 <!-- pics here -->
 <img src="images/kdh1.jpg" alt="me" /><img src="images/kdh4.jpg" alt="me" /><img src="images/kdh3.jpg" alt="me" /><img src="images/kdh2.jpg" alt="me" /><img src="images/kdh5.jpg" alt="me" />
 
@@ -16,7 +15,8 @@ h3. Here's what I'm...
 
 h3. reading:
 
-  
+Here are my latest books via LibraryThing  
+
   <!-- library thing widget -->
   <div id="lthing">
     <div id="w30384fb41cb184f40cfebb95f1e05f34"></div><script type="text/javascript" charset="UTF-8" src="http://www.librarything.com/widget_get.php?userid=kristenhazard&theID=w30384fb41cb184f40cfebb95f1e05f34"></script><noscript><a href="http://www.librarything.com/profile/kristenhazard">My Library</a> at <a href="http://www.librarything.com">LibraryThing</a></noscript>
@@ -25,12 +25,12 @@ h3. reading:
 h3. watching:
 
 <ul>
-<li>NBA playoffs</li>
-<li>Battlestar Gallactica</li>
-<li>Friday Night Lights</li>
+<li>"NBA playoffs":http://espn.go.com/nba/playoffs/2009/matchup/_/teams/nuggets-lakers/ - Yes, I like the NBA.</li>
+<li><a href="http://www.amazon.com/gp/product/B000AJJNFE?ie=UTF8&tag=timesarrow-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000AJJNFE">Battlestar Galactica  - Season One</a><img src="http://www.assoc-amazon.com/e/ir?t=timesarrow-20&l=as2&o=1&a=B000AJJNFE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> - So far I've only watched the mini-series, but it hooked me right away.</li>
+<li><a href="http://www.amazon.com/gp/product/B001PPLJIQ?ie=UTF8&tag=timesarrow-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B001PPLJIQ">The Reader</a><img src="http://www.assoc-amazon.com/e/ir?t=timesarrow-20&l=as2&o=1&a=B001PPLJIQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> - I loved the <a href="http://www.amazon.com/gp/product/0307454894?ie=UTF8&tag=timesarrow-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0307454894">book</a><img src="http://www.assoc-amazon.com/e/ir?t=timesarrow-20&l=as2&o=1&a=0307454894" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> and am looking forward to seeing the movie.</li>
 </ul>
 
-  
+
 h3. hearing:
 
 Right now I'm really into the song "One Man Guy" by Rufus Wainwright.  I found out about this song while reading Nick Hornby's Songbook.  He's a great writer and I'm really into his writing about music and books.  I devoured his set of book reviews from the Believer magazine.  You can find those here.
