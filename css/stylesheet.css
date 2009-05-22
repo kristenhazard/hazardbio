@@ -76,7 +76,7 @@ h2
 {
   /*font-family: 'helvetica', 'arial', sans-serif;
 		font-weight: bold;*/
-  font-size: 2em;
+  font-size: 1.5em;
   color: #fff;
   line-height: 1.5em;
 }
@@ -85,14 +85,18 @@ h3
 {
   /*font-family: 'helvetica', 'arial', sans-serif;
   font-weight: bold;*/
-  font-size: 1.5em;
+  font-size: .9em;
   color: #fff;
+}
+h4
+{
+	font-size: .75em;
 }
 
 ul#navigation
 {
-  margin: 0;
-  padding: 0;
+  margin: 0em;
+  padding: 0em;
   list-style-type: none;
 }
 
@@ -103,26 +107,17 @@ ul#navigation li
   background: #4E78A1;
 }
 
-ul#navigation li.first
-{
-  padding-left: 1.2em;
-}
-
-ul#navigation li.last
-{
-  padding-right: 1.2em;
-}
-
 ul#navigation li a
 {
   display: block;
-  padding: 0.65em 0.64em;
+  padding: 0.5em 0.5em;
   border-bottom: none;
   font-size: 1.65em;
   text-decoration: none;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.15em;
   color: #fff;
+
 }
 
 ul#navigation li a:hover,
@@ -148,14 +143,22 @@ div#content
 	position: relative;
 }
 
+
 div#header
 {
-  /*position: relative;*/
-  margin-bottom: 4em;
-  padding-top: 1em;
+  
+  padding-top: .1em;
+	background: #4E78A1;
+	width: 43.5em;
+	height: 3.5em;
 }
 
-#content img {margin: 3px 3px 3px 3px}
+
+#content img 
+{
+	margin: 2.5px 2.5px;
+}
+
 
 #twitter-link
 {
@@ -170,4 +173,44 @@ ul#twitter_update_list a
 ul a
 {
 	color: #9DCAFF;
+}
+
+a
+{
+	color: #9DCAFF;
+}
+
+#hello 
+{
+	margin: 0px 0px 0px 0px
+}
+
+code
+{
+	color: #9DCAFF;
+	margin: 1em;
+}
+
+#blogtop
+{
+	background: #4E78A1;
+	color: #fff;
+	padding: 1em;
+}
+
+#blogtop h3 a
+{
+	color: #202230;
+	font-size: 1.5em;
+}
+
+#blogtop
+{
+	color: #202230;
+	font-size: 1em;
+	font-family: 'helvetica', 'arial', sans-serif;
+}
+
+#blogtop h4 {
+  font-weight: normal;
 }

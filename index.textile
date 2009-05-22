@@ -6,20 +6,16 @@ section: home
 ---
 
 <div id="content">
+  <img src="images/kdh1.jpg" alt="me" /><img src="images/kdh4.jpg" alt="me" /><img src="images/kdh3.jpg" alt="me" /><img src="images/kdh2.jpg" alt="me" /><img src="images/kdh5.jpg" alt="me" />
+Hello. You've landed at hazardbio.com, Kristen Hazard's website.  It contains some info about me, my creations, and my coding blog.  If you'd like to contact me: "kristen@hazardbio.com":mailto:kristen@hazardbio.com
 
-Hello. You've landed at hazardbio.com, Kristen Hazard's website.  It contains some info about me, my creations and my coding blog called "create, share, repeat".
-<!-- pics here -->
-<img src="images/kdh1.jpg" alt="me" /><img src="images/kdh4.jpg" alt="me" /><img src="images/kdh3.jpg" alt="me" /><img src="images/kdh2.jpg" alt="me" /><img src="images/kdh5.jpg" alt="me" />
-
-h3. Here's what I'm...
+Here's what I'm...
 
 h3. reading:
 
-Here are my latest books via LibraryThing  
-
   <!-- library thing widget -->
   <div id="lthing">
-    <div id="w30384fb41cb184f40cfebb95f1e05f34"></div><script type="text/javascript" charset="UTF-8" src="http://www.librarything.com/widget_get.php?userid=kristenhazard&theID=w30384fb41cb184f40cfebb95f1e05f34"></script><noscript><a href="http://www.librarything.com/profile/kristenhazard">My Library</a> at <a href="http://www.librarything.com">LibraryThing</a></noscript>
+<div id="w2fb55405d1b4465c5c6f5eaa5e600070"></div><script type="text/javascript" charset="UTF-8" src="http://www.librarything.com/widget_get.php?userid=kristenhazard&theID=w2fb55405d1b4465c5c6f5eaa5e600070"></script><noscript><a href="http://www.librarything.com/profile/kristenhazard">My Library</a> at <a href="http://www.librarything.com">LibraryThing</a></noscript>
   </div>
   
 h3. watching:
@@ -47,6 +43,7 @@ h3. tweeting:
 </div>
 <script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
 <script type="text/javascript" src="http://twitter.com/statuses/user_timeline/timesarrow.json?callback=twitterCallback2&amp;count=5"></script>
+
 
 </div>
 

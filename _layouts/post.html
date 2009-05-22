@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<div id="post">
+  <h3>{{ page.title }}</h3>
+
+  {{ content }}
+  
+  Tags:
+    {% for topic in page.topics %}
+    <a href="http://www.hazardbio.com/tags/{{ topic }}.html" title="View posts tagged with &quot;{{ topic }}&quot;">{{ topic }}</a>{% if forloop.last != true %}, {% endif %}
+    {% endfor %}
+</div>
+<div id="comments">
+  <div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/createsharerepeat/embed.js"></script><noscript><a href="http://createsharerepeat.disqus.com/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
