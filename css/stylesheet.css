@@ -1,19 +1,19 @@
 /* 
 
 sun light blue
-9DCAFF
+#9DCAFF
 
 sun medium blue
-4E78A1
+#4E78A1
 
 sun base blue
-38577A
+#38577A
 
 sun dark blue
-202230
+#202230
 
 sun yellow
-F7C639
+#F7C639
 
 */
 
@@ -191,14 +191,13 @@ code
 	margin: 1em;
 }
 
-#blogtop
+#blogtop h3 a
 {
-	background: #4E78A1;
-	color: #fff;
-	padding: 1em;
+	color: #202230;
+	font-size: 1.5em;
 }
 
-#blogtop h3 a
+#blogtop h3
 {
 	color: #202230;
 	font-size: 1.5em;
@@ -206,11 +205,29 @@ code
 
 #blogtop
 {
+	background: #4E78A1;
+	color: #fff;
+	padding: 1em;
 	color: #202230;
-	font-size: 1em;
+	font-size: .9em;
 	font-family: 'helvetica', 'arial', sans-serif;
 }
 
 #blogtop h4 {
   font-weight: normal;
+}
+
+#post
+{
+	color: #202230;
+	font-size: 1em;
+	font-family: 'helvetica', 'arial', sans-serif;
+	background: #4E78A1;
+	color: #fff;
+	padding: 1em;
+}
+
+.email
+{
+	color: #9DCAFF;
 }
