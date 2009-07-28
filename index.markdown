@@ -1,0 +1,65 @@
+---
+layout: default
+title: home
+
+section: home
+---
+
+
+  <img src="images/kdh1.jpg" alt="me" /><img src="images/kdh4.jpg" alt="me" /><img src="images/kdh3.jpg" alt="me" /><img src="images/kdh2.jpg" alt="me" /><img src="images/kdh5.jpg" alt="me" />
+Hello. You've landed at hazardbio.com, Kristen Hazard's personal website.  It contains some info about me, my creations, and my coding blog.  
+
+If you'd like to contact me: <span class="email">kristen[at]hazardbio[dot]com</span>
+
+Here's what I'm...
+
+###creating:
+
+Currently all my creative energy is focused on making a new web site called <a href="http://times-arrow.com">timesarrow</a>.  It started out as a Web 2.0 social networking site for book clubs.  The idea is to view all books chosen by the club in a timeline and interact with them as such.  Right now I'm creating timelines for numerous book clubs as well as the major book awards.  It's fun to see books grouped like this!
+
+###reading:
+<!-- library thing widget -->
+
+  <div id="wda57dc1225310c6ecc365d26b453cb6f"></div><script type="text/javascript" charset="UTF-8" src="http://www.librarything.com/widget_get.php?userid=kristenhazard&theID=wda57dc1225310c6ecc365d26b453cb6f"></script><noscript><a href="http://www.librarything.com/profile/kristenhazard">My Library</a> at <a href="http://www.librarything.com">LibraryThing</a></noscript>  
+
+
+###watching:
+
+<a href="http://www.amazon.com/gp/product/B00129W6LE?ie=UTF8&tag=librarythinghazard-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00129W6LE"><img border="0" src="images/bsg3.jpg"></a><img src="http://www.assoc-amazon.com/e/ir?t=librarythinghazard-20&l=as2&o=1&a=B00129W6LE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+We are now into season 3. Wow. I believe BSG offers what the best science fiction offers. The expansiveness to bat around BIG ideas.  BSG does that.  It reminds me of Apocolypse Now one of my favorite movies. Both are dark and both deal with war without being too dogmatic in their message.  P.S. Those cylons are hoochies.
+
+
+###hearing:
+
+<ul>
+<li>Right now I'm really into Kathleen Edwards, favorite songs include: Westby, Buffalo and Good Things.</li>
+<li>I'm also going through Jackson Browne phase.  Great 70s music that reminds me of good times with my mother.</li>
+</ul>
+
+###tweeting:
+
+<div id="twitter_div">
+<ul id="twitter_update_list"></ul>
+<a href="http://twitter.com/timesarrow" id="twitter-link" style="display:block;text-align:right;">follow me on Twitter</a>
+</div>
+<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
+<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/timesarrow.json?callback=twitterCallback2&amp;count=5"></script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9553779-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+  
+  
+
+
+
+
+
