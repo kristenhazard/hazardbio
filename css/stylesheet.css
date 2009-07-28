@@ -44,7 +44,7 @@ body
 h1
 {
   margin-bottom: 0.375em;
-  font-size: 3.5em;
+  font-size: 2em;
   font-weight: normal;
 }
 
@@ -76,7 +76,7 @@ h2
 {
   /*font-family: 'helvetica', 'arial', sans-serif;
 		font-weight: bold;*/
-  font-size: 1.5em;
+  font-size: 1.25em;
   color: #fff;
   line-height: 1.5em;
 }
@@ -85,12 +85,12 @@ h3
 {
   /*font-family: 'helvetica', 'arial', sans-serif;
   font-weight: bold;*/
-  font-size: .9em;
+  font-size: 1em;
   color: #fff;
 }
 h4
 {
-	font-size: .75em;
+	font-size: .7em;
 }
 
 ul#navigation
@@ -187,25 +187,25 @@ a
 
 code
 {
-	color: #9DCAFF;
+	color: #F7C639;
 	margin: 1em;
 }
 
 #blogtop h3 a
 {
-	color: #202230;
-	font-size: 1.5em;
+	color: #9DCAFF;
+	font-size: 1.25em;
 }
 
 #blogtop h3
 {
 	color: #202230;
-	font-size: 1.5em;
+	font-size: 1.25em;
 }
 
 #blogtop
 {
-	background: #4E78A1;
+	background: #202230;
 	color: #fff;
 	padding: 1em;
 	color: #202230;
@@ -215,6 +215,13 @@ code
 
 #blogtop h4 {
   font-weight: normal;
+}
+
+#blogcontent
+{
+	background: #4E78A1;
+	margin: .5em;
+	padding: .5em;
 }
 
 #post

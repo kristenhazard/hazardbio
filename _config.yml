@@ -1,5 +1,5 @@
 destination: ./_site
-markdown:    textile
+markdown:    rdiscount
 pygments:    true
-auto:        true
+auto:        false
 
