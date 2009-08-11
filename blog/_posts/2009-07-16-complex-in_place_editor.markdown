@@ -3,6 +3,7 @@
 layout: post
 title: Rails complex in_place_editor implementation
 topics: rails in_place_editor
+excerpt: Today I implemented Rails in_place_editor. The basic steps are...
 
 ---
 

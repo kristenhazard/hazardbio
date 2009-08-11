@@ -1,5 +1,5 @@
 destination: ./_site
 markdown:    rdiscount
 pygments:    true
-auto:        false
+auto:        true
 

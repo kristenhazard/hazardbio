@@ -10,13 +10,12 @@ section: blog
 ##create. share. repeat.
 
 <div id="blogtop">
-  {% for post in site.posts %}
+  {% for post in site.categories.blog %}
   <div id="blogcontent">
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    {{ post.content }}
-    <h4>Posted on <a href="{{ post.url }}" title="Permalink for this post">{{ post.date | date_to_string }}</a></h4>
+    <span class="post-date">{{ post.date | date_to_string }}</span><br/>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <p class="excerpt">{{ post.excerpt }}</p>
   </div>
-  
   {% endfor %}
 </div>
 

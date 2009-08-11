@@ -110,7 +110,7 @@ ul#navigation li
 ul#navigation li a
 {
   display: block;
-  padding: 0.5em 0.5em;
+  padding: 0.5em 1.53em .5em 1.53em;
   border-bottom: none;
   font-size: 1.65em;
   text-decoration: none;
@@ -132,7 +132,8 @@ body#work #header a.work,
 body#home #header a.home, 
 body#about #header a.about,
 body#mush #header a.mush,
-body#blog #header a.blog
+body#blog #header a.blog,
+body#ksrr #header a.ksrr
 { 
 	background: #4E78A1;
   color: #F7C639;
@@ -237,4 +238,14 @@ code
 .email
 {
 	color: #9DCAFF;
+}
+
+.post-date
+{
+	float: right;
+}
+
+.excerpt
+{
+	margin: 1em;
 }
