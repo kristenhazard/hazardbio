@@ -3,13 +3,13 @@
 layout: post
 title: Gem install problem - could not find gem locally or in a repository
 topics: gems
-excerpt: My solution to this problem was found at [http://gems.github.com/]:http://gems.github.com/
+excerpt: Error could not find gem mislav-hanna locally or in a repository. Solution found at...
 
 ---
 
 ###Error: could not find gem mislav-hanna locally or in a repository
 
-My solution to this problem was found at [http://gems.github.com/]:http://gems.github.com/
+My solution to this problem was found at [http://gems.github.com/](http://gems.github.com/)
 
 When I got this error my gem source was only set to: http://gems.rubyforge.org/
 
