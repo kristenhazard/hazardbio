@@ -34,7 +34,7 @@ html
 
 body
 {
-  width: 1000px;
+  width: 975px;
   margin: 0 auto;
   padding-bottom: 3em;
 	line-height: 1.75em;
@@ -161,7 +161,7 @@ div#header
   
   padding-top: .1em;
 	background: #4E78A1;
-	width: 1000px;
+	width: 975px;
 	height: 3.5em;
 }
 
@@ -208,7 +208,7 @@ code
 {
 	color: #202230;
 	font-family: 'helvetica', 'arial', sans-serif;
-	width: 1000px;
+	width: 975px;
 }
 
 #blogtop h4 {
@@ -218,8 +218,12 @@ code
 .blogcontent
 {
 	background: #4E78A1;
-	margin: .25em 0em;
-	padding: .5em;
+	margin-top: .5em;
+	margin-bottom: .5em;
+	padding-left: .7em;
+	padding-right: .7em;
+	padding-top: .25em;
+	padding-bottom: .25em;
 	color: #fff;
 }
 
@@ -284,9 +288,12 @@ code
 
 #footer
 {
-	padding: .75em;
+	padding-left: .7em;
+	padding-right: .7em;
+	padding-top: .25em;
+	padding-bottom: .25em;
 	background: #4E78A1;
-	width: 975px;
+	width: 953px;
 	float: left;
 	color: #fff;
 }
@@ -344,7 +351,12 @@ code
 #ksrr-intro
 {
 	
-	padding: .75em;
-	color: #fff;
+	padding-left: .7em;
+	padding-right: .7em;
+	padding-top: .25em;
+	padding-bottom: .25em;
+	margin-top: .5em;
+	color: #202230;
 	background-color: #4E78A1;
+	font-family: 'helvetica', 'arial', sans-serif;
 }
