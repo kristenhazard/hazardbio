@@ -23,8 +23,9 @@ section: home
 <ul id="twitter_update_list"></ul>
 <a href="http://twitter.com/timesarrow" id="twitter-link" style="display:block;text-align:right;">follow me on Twitter</a>
 </div>
+
 <div id="pics">
-<span class="i1"><img src="images/kdh2.jpg" alt="me" /></span><span class="i2"><img src="images/kdh1.jpg" alt="me" /></span>
+<span class="i2"><img src="images/kdh2.jpg" alt="me" /></span>
 </div>
 
 <script type="text/javascript">
