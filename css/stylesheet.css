@@ -351,6 +351,12 @@ code
 	margin-left: 36em;
 }
 
+.portsub
+{
+	color: #F7C639;
+	margin-left: 21.5em;
+}
+
 #ksrr-intro
 {
 	
@@ -362,4 +368,9 @@ code
 	color: #202230;
 	background-color: #4E78A1;
 	font-family: 'helvetica', 'arial', sans-serif;
+}
+
+#portfolio img 
+{
+	margin-left: 3em;
 }

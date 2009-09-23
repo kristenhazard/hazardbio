@@ -10,7 +10,7 @@ section: work
 ### summary:
 Do you need help implementing a small to medium size web application? I can help you.  Please contact me at: <span class="emailinline">kristen[at]hazardbio.com</span>. 
 
-* I specialize in working with small to medium size companies building web application to suit their needs.
+* I specialize in working with small to medium size companies building web applications to suit their needs.
 * I am very good at working with the end user to gather business requirements and turning those requirements into useful software.
 * I work in small iterative development cycles to make sure the right software is delivered on time.
 * I have been building web applications for the last 10 years and have a mixed skill set which allows me to be both the analyst and the programmer.
@@ -34,9 +34,18 @@ that are close to my heart.  That's where I am right now. Check out [timesarrow]
 
 <div id="side-bar">
   
-  <p class="resume"><a href="../files/kristen_hazard_resume.pdf">My Resume</a></p>
+  <p class="resume"><a href="../files/kristen_hazard_resume.pdf">Resume</a></p>
+  
+  <p class="resume"><a href="/work/portfolio/">Portfolio</a></p>
   
 
+   <div id="github-badge"></div>
+  <script type="text/javascript" charset="utf-8">
+      GITHUB_USERNAME="kristenhazard";
+  </script>
+  <script src="http://drnic.github.com/github-badges/dist/github-badge-launcher.js" type="text/javascript"></script>
+  
+<br/><br/>
   <p>
   <span class="linkedin">
     <a href="http://www.linkedin.com/in/kristenhazard" >
@@ -44,20 +53,16 @@ that are close to my heart.  That's where I am right now. Check out [timesarrow]
     </a>
   </span>
   </p>
+  <br/>
+  <div id="pragbadge">
+  <a href="http://pragmaticstudio.com/rails">
+   <img src="http://pragmaticstudio.com/images/buttons/rails-alumni-button.png"
+        border="0" width="169" height="137" alt="Rails Alumni"/>
+  </a>
+  </div>
   
- <div id="github-badge"></div>
-<script type="text/javascript" charset="utf-8">
-    GITHUB_USERNAME="kristenhazard";
-    GITHUB_THEME="blue";
-</script>
-<script src="http://drnic.github.com/github-badges/dist/github-badge-launcher.js" type="text/javascript"></script>
 
- <div id="pragbadge">
- <a href="http://pragmaticstudio.com/rails">
-  <img src="http://pragmaticstudio.com/images/buttons/rails-alumni-button.png"
-       border="0" width="169" height="137" alt="Rails Alumni"/>
- </a>
- </div>
+
 
  </div>
 

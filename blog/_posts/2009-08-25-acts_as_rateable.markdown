@@ -47,3 +47,9 @@ Test method rate_it using item and current_user.id
     >> item.rate_it(5,current_user.id)
     => true
 
+
+###Part 2: get ratings working in the view
+
+http://www.komodomedia.com/blog/2007/01/css-star-rating-redux/
+http://blog.aisleten.com/2007/05/03/ajax-css-star-rating-with-acts_as_rateable/
+http://swik.net/Rails/Dave+Naffis+-+Rails,+Ruby,+Randomness/Ruby+on+Rails,+Ajax+&+CSS+Star+Rating+System/kqn0
