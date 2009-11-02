@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Step by step guide to implementing acts_as_rateable into your rails application
+title: Step by step guide to implementing acts_as_rateable into your rails application - part 1
 topics: rails 
 published: true
 excerpt: Here is a step by step guideline to implement as_as_rateable plugin into your rails application...
@@ -10,16 +10,16 @@ excerpt: Here is a step by step guideline to implement as_as_rateable plugin int
 
 Here are the steps described for a beginner:
 
-###Part 1: get plugin installed, add  and make a single model as_as_rateable
+###Part 1: get plugin installed, run migration and make a single model acts_as_rateable
 1. Run `script/plugin install git://github.com/azabaj/acts_as_rateable.git` in terminal at root of your application
-2. Run `script/generate acts_as_rateable_migration` in terminal at root of your application
+2. Run `script/generate acts_as_rateable_migration` in terminal at root of your application. This 
 3. Run `rake db:migrate` in terminal at root of your application
 4. Add `acts_as_rateable` to my the model that you want to rate
 5. Restart `script/server`
 6. Start `script/console` to test basic acts_as_rateable methods to prove installation was successful
 
 ###At this point the best way to test the installation, migration and acts_as_rateable in my opinion would be to go the console:
-Create an item object to rate
+Create an item object to rate (Item is the model I tagged as acts_as_rateable)
 
     >> item = Item.find_by_id(6)
     => #<Item id: 6, title: "March", itemtype: "Book", author: "Geraldine Brooks", 
@@ -30,7 +30,7 @@ Create an item object to rate
     publicationdate: "2006-01-31", created_at: "2009-05-29 22:58:14", 
     updated_at: "2009-05-29 22:58:14">
 
-Create a current user object
+Create a current user object to act as the rater
 
     >> current_user = User.find_by_id(1)
     => #<User id: 1, username: "kristen1", email: "kristen@hazardbio.com", 
@@ -49,7 +49,4 @@ Test method rate_it using item and current_user.id
 
 
 ###Part 2: get ratings working in the view
-
-http://www.komodomedia.com/blog/2007/01/css-star-rating-redux/
-http://blog.aisleten.com/2007/05/03/ajax-css-star-rating-with-acts_as_rateable/
-http://swik.net/Rails/Dave+Naffis+-+Rails,+Ruby,+Randomness/Ruby+on+Rails,+Ajax+&+CSS+Star+Rating+System/kqn0
+[click here for part 2](http://hazardbio.com/blog/2009/11/01/acts_as_rateable_part_2.html)
