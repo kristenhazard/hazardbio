@@ -8,7 +8,7 @@ section: work
  <div id="work-summary">
 
 ### summary:
-Do you need help implementing a small to medium size web application? I can help you.  Please contact me at: <span class="emailinline">kristen[at]hazardbio.com</span>. 
+Do you need help implementing a small to medium size web application? I can help you.  Please contact me at: <span class="emailinline"><a href="mailto:kristen@hazardbio.com">kristen[at]hazardbio[dot]com</a></span>. 
 
 * I specialize in working with small to medium size companies building web applications to suit their needs.
 * I am very good at working with the end user to gather business requirements and turning those requirements into useful software.
