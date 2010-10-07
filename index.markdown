@@ -13,7 +13,7 @@ section: home
 
 ###creating:
 
-  Currently all my creative energy is focused on making a new web site called <a href="http://times-arrow.com">timesarrow</a>.  It started out as a Web 2.0 social networking site for book clubs.  The idea is to view all books chosen by the club in a timeline and interact with them as such.  Right now I'm creating timelines for numerous book clubs as well as the major book awards.  It's fun to see books grouped like this!
+  I'm building two sites at the moment... <a href="http://times-arrow.com">timesarrow</a> and <a href="http://socialwino.com">socialwino</a>.  Check them out!
 
 
 

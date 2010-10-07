@@ -1,3 +1,5 @@
+/* @override http://localhost:4000/css/stylesheet.css */
+
 /* 
 
 sun light blue
@@ -318,27 +320,20 @@ code
 }
 #work-summary
 {
-	width: 700px;
-	margin: 10px;
+	width: 900px;
+	margin: 30px;
 	float: left;
 }
 #side-bar
 {
 	width: 200px;
 	float: right;
-	height: 850px;
 	background-color: #4E78A1;
 	padding: 10px;
 	text-align: center;
+	margin-bottom: ;
 }
-.resume a
-{	
-  font-size: 100%;
-  text-decoration: none;
-  text-transform: uppercase;
-  letter-spacing: 0.45em;
-  color: #fff;
-}
+
 
 #pragbadge
 {
